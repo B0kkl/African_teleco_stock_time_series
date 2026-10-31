@@ -1,0 +1,4 @@
+stock,rows,first,last,zero-volume days,gaps > 5 days,|daily move| > 15%,duplicate dates
+Airtel Africa,1725,2020-01-02,2026-10-29,0,0,10,0
+MTN Group,1708,2020-01-02,2026-10-29,0,0,4,0
+Vodacom,1708,2020-01-02,2026-10-29,0,0,3,0

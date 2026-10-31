@@ -1,0 +1,25 @@
+model,MAE,RMSE,oos_r2_vs_zero,direction_acc,test_days,stock,feature_set
+zero_baseline,0.0156,0.0227,0.0000,0.4724,1270,Airtel Africa,own
+train_mean,0.0155,0.0227,0.0007,0.5276,1270,Airtel Africa,own
+ridge,0.0157,0.0229,-0.0164,0.5189,1270,Airtel Africa,own
+random_forest,0.0159,0.0230,-0.0247,0.5126,1270,Airtel Africa,own
+zero_baseline,0.0156,0.0227,0.0000,0.4724,1270,Airtel Africa,own+cross
+train_mean,0.0155,0.0227,0.0007,0.5276,1270,Airtel Africa,own+cross
+ridge,0.0159,0.0229,-0.0152,0.5150,1270,Airtel Africa,own+cross
+random_forest,0.0159,0.0229,-0.0163,0.5142,1270,Airtel Africa,own+cross
+zero_baseline,0.0158,0.0224,0.0000,0.4964,1255,MTN Group,own
+train_mean,0.0159,0.0225,-0.0086,0.5036,1255,MTN Group,own
+ridge,0.0164,0.0229,-0.0457,0.4845,1255,MTN Group,own
+random_forest,0.0164,0.0228,-0.0432,0.4988,1255,MTN Group,own
+zero_baseline,0.0158,0.0224,0.0000,0.4964,1255,MTN Group,own+cross
+train_mean,0.0159,0.0225,-0.0086,0.5036,1255,MTN Group,own+cross
+ridge,0.0164,0.0229,-0.0478,0.4869,1255,MTN Group,own+cross
+random_forest,0.0164,0.0228,-0.0432,0.4908,1255,MTN Group,own+cross
+zero_baseline,0.0111,0.0149,0.0000,0.4948,1255,Vodacom,own
+train_mean,0.0111,0.0149,-0.0008,0.4781,1255,Vodacom,own
+ridge,0.0113,0.0151,-0.0212,0.5012,1255,Vodacom,own
+random_forest,0.0113,0.0151,-0.0223,0.5036,1255,Vodacom,own
+zero_baseline,0.0111,0.0149,0.0000,0.4948,1255,Vodacom,own+cross
+train_mean,0.0111,0.0149,-0.0008,0.4781,1255,Vodacom,own+cross
+ridge,0.0113,0.0151,-0.0221,0.4988,1255,Vodacom,own+cross
+random_forest,0.0113,0.0151,-0.0184,0.5124,1255,Vodacom,own+cross
