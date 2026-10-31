@@ -91,3 +91,5 @@ Nothing beat buy-and-hold on return. Hundreds of position changes at 0.1% each c
 - Test longer horizons (weekly direction), where signal-to-noise is usually better.
 - Nested walk-forward hyperparameter tuning.
 - Add the Nigerian listings (MTN Nigeria, Airtel Africa on the NGX) if a reliable data source is found.
+
+## Data Source : https://roadmap.sh/projects/stock-price-time-series
